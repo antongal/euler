@@ -1,4 +1,4 @@
 euler
 =====
 
-Repository for my solution of Project Euler problems ( http://projecteuler.net/ )
+Repository for my solutions of Project Euler problems ( http://projecteuler.net/ )
